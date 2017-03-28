@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aloha App</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="MenuP_Premium">Premium</string>
+    <string name="MenuP_Instrucciones">Instructions</string>
+    <string name="MenuP_Programar">Schedule Daily Message</string>
+    <string name="Aloha">Aloha!</string>
+    <string name="MenuP_Off">Off</string>
+    <string name="MenuP_On">On</string>
+    <string name="MenuP_HoraAgendadaTxt">Daily Message at </string>
+
+    <string name="title_activity_mensaje_diario">Mensaje Diario</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
